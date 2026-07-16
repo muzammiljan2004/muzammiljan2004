@@ -18,10 +18,10 @@
 
 - 🎓 BS Computer Science, **Air University, Islamabad**
 - 💼 Development Intern at **TechXServe Enterprise** — track-to-hire
-- 🧩 Building **Examia**, an Exam & Cohort Portal with rubric-based and AI-assisted grading (Gemini)
+- 🧩 Building **Examia**, an Exam & Cohort Portal.
 - 🏗️ Shipped a multi-tenant **CRM** — contracts, invoicing, cash ledger management
 - 🚑 Built **Islamabad Ambulance Service**, a solo client project, end to end
-- 🌾 Completed FYP on **Crop Yield Prediction** using satellite imagery & ML
+- 🌾 Working on FYP: **Crop Yield Prediction** using satellite imagery & ML
 - 🌱 Currently deepening skills in **DevOps** and **AI/ML**
 
 <br/>
@@ -72,7 +72,7 @@
       <p>Contracts, invoicing, and cash ledger management</p>
     </td>
     <td width="50%" align="center">
-      <h3>🌾 Crop Yield Prediction</h3>
+      <h3>🌾 Crop Yield Prediction (FYP, in progress)</h3>
       <p>Satellite imagery + ML for agricultural forecasting</p>
     </td>
   </tr>
